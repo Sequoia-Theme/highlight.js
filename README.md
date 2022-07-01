@@ -4,12 +4,15 @@
 Sequoia theme adapted to Highlight.js
 
 
+
+```html
 <link
     rel="stylesheet"
     href="https://raw.githubusercontent.com/Sequoia-Theme/highlight.js/main/min/sequoia-moonlight.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
+```
 
 
 # Available themes:
