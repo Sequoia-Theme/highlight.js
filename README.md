@@ -1,12 +1,12 @@
 ![Sequoia Theme Header](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
 # Sequoia for Highlight.js
-Sequoia theme adapted to APP
+Sequoia theme adapted to Highlight.js
 
 
 <link
     rel="stylesheet"
-    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/sequoia-moonlight.min.css"
+    href="https://raw.githubusercontent.com/Sequoia-Theme/highlight.js/main/min/sequoia-moonlight.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
