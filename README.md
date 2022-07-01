@@ -17,14 +17,12 @@ Sequoia theme adapted to Highlight.js
 
 # Available themes:
 
--Moonlight:
-
-
-
-## Screenshots
 
 ### Moonlight
 ![Moonlight](https://github.com/Sequoia-Theme/highlight.js/blob/main/moonlight.png?raw=true)
+
+### Moonlight
+![Moonlight](https://github.com/Sequoia-Theme/highlight.js/blob/main/monochrome.png?raw=true)
 
 
 #
