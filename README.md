@@ -1,28 +1,27 @@
 ![Sequoia Theme Header](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
-# Sequoia for APP
+# Sequoia for Highlight.js
 Sequoia theme adapted to APP
 
 
-# Instructions
-
-- Prefferences/Themes/Paste the codes.
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/sequoia-moonlight.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
 
 
 # Available themes:
 
-Moonlight:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
-
-Monochrome:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
+-Moonlight:
 
 
 
 ## Screenshots
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/highlight.js/blob/main/moonlight.png?raw=true)
 
 
 #
